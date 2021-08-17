@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FuzBuzz
 - 👀 I’m interested in Bots 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me FuzBuzz#6913
 
