@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FuzBuzz
-- 👀 I’m interested in Bots 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me FuzBuzz#6913
+ok
 
 <!---
 FuzBuzz/FuzBuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
